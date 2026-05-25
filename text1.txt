@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 10C5-2C10
+
+ Directory of C:\Users\SURAJ DOKE\Desktop\MyProject
+
+25-05-2026  11:52    <DIR>          .
+25-05-2026  11:47    <DIR>          ..
+25-05-2026  11:53                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  150,177,652,736 bytes free
